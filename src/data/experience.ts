@@ -8,6 +8,14 @@ export type Experience = {
 
 export const experiences: Experience[] = [
   {
+    period: "2026 — Present",
+    organization: "Innovation IT",
+    role: "Software Engineering Intern",
+    type: "Employment",
+    description:
+      "Supporting aspiring Organization through skills, technical discussions.",
+  },
+  {
     period: "2025 — Present",
     organization: "FGCI ICT Club",
     role: "Web Development Mentor",
